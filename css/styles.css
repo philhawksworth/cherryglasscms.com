@@ -83,6 +83,10 @@ pre {
   overflow-x: auto;
 }
 
+div {
+  margin:1em 0;
+}
+
 table {
   width:100%;
   border-collapse:collapse;
